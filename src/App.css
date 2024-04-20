@@ -1,0 +1,13 @@
+
+.main{
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; 
+}
+.container {
+  margin-bottom: 10px;
+  height: auto;
+}
+
+
